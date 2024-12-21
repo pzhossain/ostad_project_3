@@ -1,0 +1,38 @@
+[
+    {
+        "task": "Garlic 500 mg",
+        "done": true
+    },
+    {
+        "task": "Ginger 250 mg",
+        "done": false
+    },
+    {
+        "task": "Onion 2kg",
+        "done": false
+    },
+    {
+        "task": "\u0986\u09b2\u09c1 \u09e8 \u0995\u09c7\u099c\u09bf",
+        "done": true
+    },
+    {
+        "task": "\u09aa\u099f\u09b2 \u09e7\/\u09e8 \u0995\u09c7\u099c\u09bf",
+        "done": false
+    },
+    {
+        "task": "\u09ae\u09b0\u09bf\u099a \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "done": false
+    },
+    {
+        "task": "\u09ac\u09c7\u0997\u09c1\u09a8 \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
+        "done": false
+    },
+    {
+        "task": "\u09a4\u09c7\u09b2 \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "done": false
+    },
+    {
+        "task": "\u09ae\u09df\u09a6\u09be \u09eb \u0995\u09c7\u099c\u09bf",
+        "done": true
+    }
+]
